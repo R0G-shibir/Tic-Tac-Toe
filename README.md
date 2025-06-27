@@ -2,6 +2,8 @@
 
 A simple Tic Tac Toe game built with Java and Swing.
 
+**This is a learning project.**
+
 ## How to Run
 
 1. **Compile the code:**
